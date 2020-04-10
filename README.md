@@ -1,4 +1,4 @@
-# Z-Wave-ZigBee
+# Z-Wave, ZigBee - HUB Project
 
 ## Moduli ricevitori + antenne + ESP32
 
